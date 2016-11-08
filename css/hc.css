@@ -575,62 +575,102 @@ time
   text-shadow:1px 1px #fff
 }
 
-.fashion
+.gknow
 {
   border-left:solid 2px #bc0005
 }
 
-.fashion-button
+.gknow-button
 {
   background-color:#bc0005
 }
 
-.fashion:hover
+.gknow:hover
 {
   border-left:solid 2px #f40006
 }
 
-.fashion-button:hover
+.gknow-button:hover
 {
   background-color:#f40006
 }
 
-.programming
+.philosophy
 {
   border-left:solid 2px #7dbcb2
 }
 
-.programming-button
+.philosophy-button
 {
   background-color:#7dbcb2
 }
 
-.programming:hover
+.philosophy:hover
 {
   border-left:solid 2px #bbe9e2
 }
 
-.programming-button:hover
+.philosophy-button:hover
 {
   background-color:#bbe9e2
 }
 
-.tech
+.creation
 {
   border-left:solid 2px #644539
 }
 
-.tech-button
+.creation-button
 {
   background-color:#644539
 }
 
-.tech:hover
+.creation:hover
 {
   border-left:solid 2px #F4A273
 }
 
-.tech-button:hover
+.creation-button:hover
+{
+  background-color:#F4A273
+}
+
+.comics
+{
+  border-left:solid 2px #644539
+}
+
+.comics-button
+{
+  background-color:#644539
+}
+
+.comics:hover
+{
+  border-left:solid 2px #F4A273
+}
+
+.comics-button:hover
+{
+  background-color:#F4A273
+}
+
+.animations
+{
+  border-left:solid 2px #644539
+}
+
+.animations-button
+{
+  background-color:#644539
+}
+
+.animations:hover
+{
+  border-left:solid 2px #F4A273
+}
+
+.animations-button:hover
 {
   background-color:#F4A273
 }

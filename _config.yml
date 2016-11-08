@@ -1,14 +1,14 @@
-name: Herring Cove
-author: Herring Cove
-baseurl: /herringcove
-description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
+name: Theophilus Moss
+author: Theophilus Moss
+baseurl: 
+description: Start where you are. Use what you have. Do what you can.
+github: http://www.github.com/tmoss4
+twitter: 
+facebook: https://www.facebook.com/theophilus.moss
+linkedin: https://www.linkedin.com/in/tmoss4
+email: moss.theophilus@gmail.com
+location: 
+disqus: theophilusmoss
 
 ##Make sure to edit the above fields, especially for disqus.
 
