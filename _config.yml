@@ -1,17 +1,26 @@
+# Site settings
 name: Theo Moss
+author: Theo Moss
 title: "Theo's Blog"
-author: Theophilus Moss
-baseurl: 
+subtitle: 
 description: "INFJ: The Advocate"
+slogan:
+keywords:
+language: 'en'
+
+url: 
+baseurl: 
+urlimg:
+
 github: http://www.github.com/tmoss4
-twitter: 
 facebook: https://www.facebook.com/theophilus.moss
 linkedin: https://www.linkedin.com/in/tmoss4
 email: moss.theophilus@gmail.com
 location: 
 disqus: theophilusmoss
 
-##Make sure to edit the above fields, especially for disqus.
+# Build settings
+markdown: kramdown
 
 defaults:
   - scope:
