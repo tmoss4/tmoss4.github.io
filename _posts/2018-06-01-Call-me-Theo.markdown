@@ -1,7 +1,7 @@
 ---
 title: Call me Theo.
 date: 2018-06-01 12:00:00
-categories: posts
+categories: 
 ---
 
 Today marks the official launch of the Paper Beats Rock Collection!
