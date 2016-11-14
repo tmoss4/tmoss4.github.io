@@ -583,27 +583,27 @@ time
 
 .gknow
 {
-  border-left:solid 2px #bc0005
+  border-left:solid 2px #b20000
 }
 
 .gknow-button
 {
-  background-color:#bc0005
+  background-color:#b20000
 }
 
 .gknow:hover
 {
-  border-left:solid 2px #f40006
+  border-left:solid 2px #ff0000
 }
 
 .gknow-button:hover
 {
-  background-color:#f40006
+  background-color:#ff0000
 }
 
 .philosophy
 {
-  border-left:solid 2px #7dbcb2
+  border-left:solid 2px #ff9900
 }
 
 .philosophy-button
@@ -613,12 +613,12 @@ time
 
 .philosophy:hover
 {
-  border-left:solid 2px #bbe9e2
+  border-left:solid 2px #ffb74c
 }
 
 .philosophy-button:hover
 {
-  background-color:#0066ff
+  background-color:#ffb74c
 }
 
 .creation
@@ -643,62 +643,62 @@ time
 
 .comics
 {
-  border-left:solid 2px #644539
+  border-left:solid 2px #006b00
 }
 
 .comics-button
 {
-  background-color:#644539
+  background-color:#006b00
 }
 
 .comics:hover
 {
-  border-left:solid 2px #F4A273
+  border-left:solid 2px #009900
 }
 
 .comics-button:hover
 {
-  background-color:#F4A273
+  background-color:#009900
 }
 
 .animations
 {
-  border-left:solid 2px #644539
+  border-left:solid 2px #0000b2
 }
 
 .animations-button
 {
-  background-color:#644539
+  background-color:#0000b2
 }
 
 .animations:hover
 {
-  border-left:solid 2px #F4A273
+  border-left:solid 2px #0000ff
 }
 
 .animations-button:hover
 {
-  background-color:#F4A273
+  background-color:#0000ff
 }
 
 .misc
 {
-  border-left:solid 2px #9e9599
+  border-left:solid 2px #8e006b
 }
 
 .misc-button
 {
-  background-color:#9e9599
+  background-color:#8e006b
 }
 
 .misc:hover
 {
-  border-left:solid 2px #cfe0ea
+  border-left:solid 2px #cc0099
 }
 
 .misc-button:hover
 {
-  background-color:#cfe0ea
+  background-color:#cc0099
 }
 
 .podcasts
