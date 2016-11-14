@@ -165,7 +165,7 @@ p
 .brand
 {
   font-weight:800;
-  color:#6c7077;
+  color:#d90006;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
   font-size:1.4em;
   text-shadow:1px 1px #fff
@@ -295,14 +295,6 @@ pre
   font-weight:700;
   color:#d90006;
   line-height:130%
-}
-
-#welcome-greeting h1:hover
-{
-  font-size:3em;
-  font-weight:700;
-  color:#2d4440;
-  transition:all .5s ease 0
 }
 
 #welcome-greeting > h2
