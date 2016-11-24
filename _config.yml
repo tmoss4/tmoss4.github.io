@@ -10,7 +10,7 @@ language: 'en'
 
 url: 
 baseurl: 
-urlimg:
+urlimg: /images
 
 github: http://www.github.com/tmoss4
 facebook: https://www.facebook.com/theophilus.moss
