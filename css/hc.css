@@ -10,10 +10,9 @@ body
   border-width:4px
 }
 
-h1,h2,h3,h4,h5,h6
+h1,h2,h3,h4,h5
 {
   font-family: Arial;
-  color:#DA182B
 }
 
 h1
@@ -22,12 +21,12 @@ h1
   color:#6d7680
 }
 
-h2,h3
+h2
 {
   font-weight:700
 }
 
-h1 a,h2 a,h3 a,h4 a
+h1 a
 {
   color:#428fe0
 }
@@ -37,10 +36,16 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover
   color:#29598c
 }
 
+h6
+{
+  font-family: Arial;
+}
+
 p
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
-  font-weight:200
+  font-weight:200;
+  color:#000
 }
 
 .posts
@@ -119,13 +124,12 @@ p
   text-indent:40px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
-  color:#9c9c9c;
-  text-shadow:1px 1px #fff
+  color:#9c9c9c
 }
 
 .sidebar-nav li a
 {
-  color:#999;
+  color:#000;
   display:block;
   text-decoration:none
 }
@@ -299,7 +303,7 @@ pre
 
 #welcome-greeting > h2
 {
-  font-size:1.5em;
+  font-size:1.4em;
   font-weight:100;
   color:#2e2e2e;
   padding-top:0;
@@ -310,6 +314,15 @@ pre
 {
   font-weight:100;
   color:#DA182B
+}
+
+#welcome-greeting > h3
+{
+  font-size:1.3em;
+  font-weight:100;
+  color:#2e2e2e;
+  padding-top:0;
+  line-height:140%
 }
 
 .credit
@@ -369,8 +382,7 @@ pre
 
 .meta
 {
-  text-shadow:1px 1px #fff;
-  color:#b6b6b6
+  color:#000
 }
 
 img
@@ -412,7 +424,7 @@ img
 
 time
 {
-  color:#c9c9c9;
+  color:#000;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:100;
   text-shadow:1px 1px #fff
